@@ -1,0 +1,19 @@
+@import '_variables.scss';
+@import '_mixins.scss';
+@import 'reset.scss';
+
+body {
+}
+
+#__next {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: radial-gradient(at 50% 40%, #fff, transparent 80%),
+    radial-gradient(at 50% -47%, #ace0f9, transparent 80%),
+    radial-gradient(at 0% 0%, #c7e6ff 0, transparent 32%),
+    radial-gradient(at 100% 98%, #fff1eb, transparent),
+    radial-gradient(at 0 97%, #fff1eb, transparent);
+}

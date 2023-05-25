@@ -1,0 +1,27 @@
+{
+  "name": "kimsoyeon_2023",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "dev-open": "open http://localhost:3000 & next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@react-icons/all-files": "^4.1.0",
+    "eslint": "8.40.0",
+    "eslint-config-next": "13.4.2",
+    "next": "13.4.2",
+    "node-sass": "^7.0.3",
+    "prettier": "^2.8.8",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.8.0",
+    "react-redux": "^8.0.5",
+    "react-responsive": "^9.0.2",
+    "sass": "^1.62.1",
+    "styled-components": "^6.0.0-rc.1"
+  }
+}
