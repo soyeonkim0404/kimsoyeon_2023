@@ -2,7 +2,10 @@
 @import '_mixins.scss';
 @import 'reset.scss';
 
-body {
+:root {
+  --widget-color: #6d63ff;
+  --widget-width: 140px;
+  --widget-height: 190px;
 }
 
 #__next {

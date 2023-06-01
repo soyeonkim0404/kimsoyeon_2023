@@ -137,6 +137,12 @@ a {
   text-decoration: none;
 }
 
+:root {
+  --widget-color: #6d63ff;
+  --widget-width: 140px;
+  --widget-height: 190px;
+}
+
 #__next {
   width: 100vw;
   height: 100vh;

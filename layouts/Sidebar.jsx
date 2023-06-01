@@ -15,6 +15,7 @@ const Sidebar = () => {
         <nav>
           <Link href={'./'}>Home</Link>
           <Link href={'./GuideAccordion'}>Accordion</Link>
+          <Link href={'./GuideWidget'}>Widget</Link>
         </nav>
       </SideMenuWrap>
     </>
